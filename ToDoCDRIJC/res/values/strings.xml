@@ -2,7 +2,12 @@
 <resources>
 
     <string name="app_name">ToDoCDRIJC</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title">Todo Lists</string>
     <string name="action_settings">Settings</string>
+    <string name="school_category">School</string>
+    <string name="home_category">Home</string>
+    <string name="work_category">Work</string>
+    <string name="misc_category">Misc</string>
+    
 
 </resources>
